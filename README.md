@@ -1,5 +1,7 @@
 # UpSet
 
+[![Join the chat at https://gitter.im/syrenio/upset](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/syrenio/upset?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About
 
 UpSet is an interactive, web based visualization technique designed to analyze set-based data. UpSet visualizes both, set intersections and their properties, and the items (elements) in the dataset. Please see the project website at [http://vcg.github.io/upset/about](http://vcg.github.io/upset/about) for details about the technique, publications and videos.
